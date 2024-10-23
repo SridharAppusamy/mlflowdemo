@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e081770f0e24b28973d83af9e66466b/artifacts
+end_time: 1729678913870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e081770f0e24b28973d83af9e66466b
+run_name: nosy-swan-145
+run_uuid: 7e081770f0e24b28973d83af9e66466b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729678862487
+status: 3
+tags: []
+user_id: ADMIN

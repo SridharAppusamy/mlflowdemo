@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d662c327919c47309eae1a3f83992678/artifacts
+end_time: 1729678610849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d662c327919c47309eae1a3f83992678
+run_name: gregarious-zebra-558
+run_uuid: d662c327919c47309eae1a3f83992678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729678610273
+status: 4
+tags: []
+user_id: ADMIN
